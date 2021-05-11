@@ -11,7 +11,7 @@
 > As operacões terminais que retornam um valor ou objeto, exemplo:
 
 ```java
-.forEach(System.out::println);
+
 ```
 
 ##### FlatMap
