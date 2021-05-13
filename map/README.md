@@ -10,10 +10,6 @@
 
 > As operacões terminais que retornam um valor ou objeto, exemplo:
 
-```java
-
-```
-
 ##### FlatMap
 
 
