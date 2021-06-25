@@ -1,7 +1,7 @@
 ## Stream Api - Java
 
-Stream é um recurso do Java que facilita o desenvolvimento, são expressões lambda, reduz o tamanho do código e simplifica o uso do parelelismo.
-(São Expressões Lambda (EL))
+Stream é um recurso do Java que facilita o desenvolvimento, são expressões lambda (São Expressões Lambda (EL)),
+reduz o tamanho do código e simplifica o uso do parelelismo.
 
 > E os que estão acostumados, por exemplo, a galera que já trabalhou com Js, Clojure, Scala. Trabalhar cm stream vai ser moleza.
 
