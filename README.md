@@ -3,7 +3,7 @@
 Stream é um recurso do Java que facilita o desenvolvimento, são expressões lambda (São Expressões Lambda (EL)),
 reduz o tamanho do código e simplifica o uso do parelelismo.
 
-> E os que estão acostumados, por exemplo, a galera que já trabalhou com Js, Clojure, Scala. Trabalhar cm stream vai ser moleza.
+> E os que estão acostumados, por exemplo, a galera que já trabalhou com Js, Clojure, Scala, trabalhar com stream vai ser moleza.
 
 > Ao contrário da galera que o costume é escrever métodos que recebem apenas objetos ou tipos primitivos como parâmetro.
 (Treinar te deixar melhor)
