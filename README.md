@@ -10,7 +10,7 @@ Stream é um recurso do Java que facilita o desenvolvimento, são expressões la
 
 #### 1 - Pq facilita o desenvolvimento?
 
-*Laços de repeticão comum*
+*Laço de repeticão comum*
 
 ```java
 for(int i = 0; i < list.size(); i++) {
@@ -18,7 +18,7 @@ for(int i = 0; i < list.size(); i++) {
 }
 ```
 
-*Laços de repeticão comum*
+*Laço de repeticão comum*
 
 ```java
 for (Pessoa pessoa : pessoas) {
@@ -26,7 +26,7 @@ for (Pessoa pessoa : pessoas) {
 }
 ```
 
-*Stream*
+*Laço de repetição com Stream*
 
 ```java
 list.stream().forEach(System.out::println);
