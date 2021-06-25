@@ -10,11 +10,15 @@ Stream é um recurso do Java que facilita o desenvolvimento, são expressões la
 
 #### 1 - Pq facilita o desenvolvimento?
 
+*Laços de repeticão comum*
+
 ```java
 for(int i = 0; i < list.size(); i++) {
   System.out.println(list.get(i));
 }
 ```
+
+*Laços de repeticão comum*
 
 ```java
 for (Pessoa pessoa : pessoas) {
