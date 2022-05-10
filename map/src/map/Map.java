@@ -5,7 +5,9 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
+
 public class Map {
+	
 	public static void main(String[] args) {
 		// map data transformation
 		List<Pessoa> pessoas = new Pessoa().populaPessoas();
@@ -25,5 +27,6 @@ public class Map {
 		System.out.println("DEPOIS DO FLATMAP " + collect);
 
 	}
+	
 
 }
